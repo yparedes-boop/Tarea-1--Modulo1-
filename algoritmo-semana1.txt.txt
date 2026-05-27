@@ -1,0 +1,9 @@
+Algoritmo para compartir información confiable en internet
+
+1. Buscar la información.
+2. Revisar la fuente de la noticia.
+3. Comparar la información con otras páginas.
+4. Verificar la fecha de publicación.
+5. Leer completamente la noticia.
+6. Confirmar que las imágenes no estén alteradas.
+7. Compartir la información de manera responsable.
